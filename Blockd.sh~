@@ -9,7 +9,7 @@
 #\_| \_/\__,_|_|  \__, |_|  \___|_| |_|
 #                  __/ |               
 #                 |___/   
-# 5 May, 2012
+# 3 May, 2012
 # Simple script to block tracking websites like Facebook.com
 # Nargren
 
@@ -26,7 +26,6 @@
 # Added option to create own, permanent blocklist
 # Bug with Manual block and own blocklists have been fixed
 # Interface specific blocking is available
-# 21 spet 2012; minor changes, cleaning up some parts of the script
 
 #####################  IMPORTANT  ############################################################################
 #This script provides a fast and simple way for disabling website tracking
